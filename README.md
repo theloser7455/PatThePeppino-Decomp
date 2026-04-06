@@ -1,5 +1,5 @@
 # Pat The Peppino Decomp
-- A decompile of "Pat The Peppino".
+- Basically a decompile of Pat The Peppino.
 
 > [!NOTE] 
 > [Link to the original game](https://scrufftuna.itch.io/pat-the-peppino)<br/>
