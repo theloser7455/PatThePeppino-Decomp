@@ -1,5 +1,5 @@
-function chance(argument0)
+function chance(arg0)
 {
-    randomize();
-    return argument0 > random(1);
+	randomize()
+	return arg0 > random(1);
 }

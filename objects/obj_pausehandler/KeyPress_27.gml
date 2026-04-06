@@ -1,7 +1,7 @@
-if (room != rm_intro && 1)
+if room != rm_intro && true
 {
-    if (global.gamepaused)
-        global.gamepaused = false;
-    else
-        global.gamepaused = true;
+	if global.gamepaused
+		global.gamepaused = false
+	else
+		global.gamepaused = true
 }

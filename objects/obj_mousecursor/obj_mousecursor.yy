@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "\"Mouse\"",
-    "path": "folders/Objects/\"Mouse\".yy",
+    "name": "important",
+    "path": "folders/Objects/important.yy",
   },
   "parentObjectId": null,
   "persistent": false,

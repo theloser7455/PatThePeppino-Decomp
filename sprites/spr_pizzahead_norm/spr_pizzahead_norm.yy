@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e5aad90d-716d-4f22-8079-5f3d620a0248",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"198af195-1847-44b0-8506-b220508e78a2",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 470,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"250a8b8b-536a-49f1-a1e9-9c11c69a6017","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dfffca11-4ab4-43fd-9eab-4884df926b26","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Pizzahead",
-    "path": "folders/Sprites/plushie thingys or whatever/Pizzahead.yy",
+    "name": "pizzahead",
+    "path": "folders/Sprites/plush/pizzahead.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e5aad90d-716d-4f22-8079-5f3d620a0248","path":"sprites/spr_pizzahead_norm/spr_pizzahead_norm.yy",},},},"Disabled":false,"id":"cab56108-c8a6-4a2e-95ee-fea6a66b8bbe","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"198af195-1847-44b0-8506-b220508e78a2","path":"sprites/spr_pizzahead_norm/spr_pizzahead_norm.yy",},},},"Disabled":false,"id":"274eb5e2-a715-4a58-816b-549596cbc889","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

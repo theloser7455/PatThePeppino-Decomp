@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Effects",
-    "path": "folders/Objects/Effects.yy",
+    "name": "effects",
+    "path": "folders/Objects/plush/effects.yy",
   },
   "parentObjectId": null,
   "persistent": false,

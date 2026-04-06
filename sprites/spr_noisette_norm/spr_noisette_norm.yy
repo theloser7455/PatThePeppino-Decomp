@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7af2246-92d8-466a-98a9-8deb4dbee36c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"76311c34-f8fc-4c60-b143-9665714dc9e7",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 461,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5148345b-8ee6-4888-94a5-83104d0a536f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"74dea813-58eb-450a-8638-c858069b0225","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Noisette",
-    "path": "folders/Sprites/plushie thingys or whatever/Noisette.yy",
+    "name": "noisette",
+    "path": "folders/Sprites/plush/noisette.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d7af2246-92d8-466a-98a9-8deb4dbee36c","path":"sprites/spr_noisette_norm/spr_noisette_norm.yy",},},},"Disabled":false,"id":"c7d1dde6-465f-453f-8b30-db6e1a7f7763","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"76311c34-f8fc-4c60-b143-9665714dc9e7","path":"sprites/spr_noisette_norm/spr_noisette_norm.yy",},},},"Disabled":false,"id":"ddb746ce-4ca9-4fcb-bac8-8246665b0318","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

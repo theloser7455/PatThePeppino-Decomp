@@ -1,5 +1,8 @@
 # Pat The Peppino Decomp
-- "go ahead pat the peppino"
-- [link to the original fangame bcuz its not like i stole the game](https://scrufftuna.itch.io/pat-the-peppino)<br/>
-# Requirements (you only need to install this gamemaker version and thats it!!)
-- [GameMaker 2023.11.1.129](https://gms.yoyogames.com/GameMaker-Installer-2023.11.1.129.exe)<br/>
+- A decompile of "Pat The Peppino".
+
+> [!NOTE] 
+> [Link to the original](https://scrufftuna.itch.io/pat-the-peppino)<br/>
+
+> [!WARNING]
+> [Use GameMaker 2023.11.1.129 Only!!](https://gms.yoyogames.com/GameMaker-Installer-2023.11.1.129.exe)<br/>

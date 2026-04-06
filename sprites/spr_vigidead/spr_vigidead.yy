@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2e1fa26f-296a-428b-96b4-fa3c89fe9257",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e763c6da-1af3-4294-9474-e59d53c7449e",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 451,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ca0c7bf6-fb78-4b4d-9dca-c13bdf97d9fb","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"97de37d2-b621-4711-9498-e09a5cfc9fe6","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Vigilante",
-    "path": "folders/Sprites/plushie thingys or whatever/Vigilante.yy",
+    "name": "vigi",
+    "path": "folders/Sprites/plush/vigi.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2e1fa26f-296a-428b-96b4-fa3c89fe9257","path":"sprites/spr_vigidead/spr_vigidead.yy",},},},"Disabled":false,"id":"3d84e821-d27f-41ab-864a-65e0a79b6cbb","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e763c6da-1af3-4294-9474-e59d53c7449e","path":"sprites/spr_vigidead/spr_vigidead.yy",},},},"Disabled":false,"id":"c34e6536-4cf2-43f3-9e90-836825123a8b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

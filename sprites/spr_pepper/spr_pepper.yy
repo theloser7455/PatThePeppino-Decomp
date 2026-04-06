@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c1fabfe0-ebed-40fe-a466-a56435c9f550",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0574b5e3-ae1d-4ba1-8231-c61629ebf2a8",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 446,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dec7a5e1-1f8b-4bbc-80a8-899f7487b48d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"21b9b290-bd30-4129-9b3b-4325fae922ec","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Pepperman",
-    "path": "folders/Sprites/plushie thingys or whatever/Pepperman.yy",
+    "name": "pepper",
+    "path": "folders/Sprites/plush/pepper.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c1fabfe0-ebed-40fe-a466-a56435c9f550","path":"sprites/spr_pepper/spr_pepper.yy",},},},"Disabled":false,"id":"4521992f-9ca9-4baa-a78e-4f76f5a05163","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0574b5e3-ae1d-4ba1-8231-c61629ebf2a8","path":"sprites/spr_pepper/spr_pepper.yy",},},},"Disabled":false,"id":"60b4958b-a0ec-4810-b6ae-198e68ebf019","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

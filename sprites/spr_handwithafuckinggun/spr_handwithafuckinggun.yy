@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5b8e35c1-052b-4340-940b-a8fa250db96a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4f3f601c-a95a-4fdd-83a0-fadf5549eb14",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 229,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fa4832a9-c6bc-42ef-8cc6-a70dc4072116","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0142d453-c70f-4f05-b31d-6b3ee59d1958","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "gun",
-    "path": "folders/Sprites/the hand that your in the control of/gun.yy",
+    "name": "hand",
+    "path": "folders/Sprites/hand.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5b8e35c1-052b-4340-940b-a8fa250db96a","path":"sprites/spr_handwithafuckinggun/spr_handwithafuckinggun.yy",},},},"Disabled":false,"id":"d2935f08-7109-4966-8c8a-b30a89942407","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4f3f601c-a95a-4fdd-83a0-fadf5549eb14","path":"sprites/spr_handwithafuckinggun/spr_handwithafuckinggun.yy",},},},"Disabled":false,"id":"8f5bdd5b-beb7-406c-be78-fe5be8ee888f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "gui related stuff",
-    "path": "folders/Objects/gui related stuff.yy",
+    "name": "important",
+    "path": "folders/Objects/important.yy",
   },
   "parentObjectId": null,
   "persistent": false,

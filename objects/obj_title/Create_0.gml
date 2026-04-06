@@ -1,1 +1,1 @@
-text_selected = [false, false, false];
+text_selected = [false, false, false]

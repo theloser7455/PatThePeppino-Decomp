@@ -10,10 +10,10 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 1.7639999,
+  "duration": 1.7640136,
   "parent": {
-    "name": "Soundeffects",
-    "path": "folders/Sounds/Soundeffects.yy",
+    "name": "sfx",
+    "path": "folders/Sounds/sfx.yy",
   },
   "preload": true,
   "sampleRate": 44100,

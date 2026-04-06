@@ -1,7 +1,7 @@
-function flip_bool(argument0)
+function flip_bool(arg0)
 {
-    if (argument0 == true)
-        return false;
-    else
-        return true;
+	if arg0 == true
+		return false;
+	else
+		return true;
 }

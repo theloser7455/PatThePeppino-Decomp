@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Plush",
-    "path": "folders/Objects/Plush.yy",
+    "name": "plush",
+    "path": "folders/Objects/plush.yy",
   },
   "parentObjectId": null,
   "persistent": false,

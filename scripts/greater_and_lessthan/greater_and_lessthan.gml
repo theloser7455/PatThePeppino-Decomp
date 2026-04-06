@@ -1,4 +1,4 @@
-function greater_and_lessthan(argument0, argument1, argument2)
+function greater_and_lessthan(arg0, arg1, arg2)
 {
-    return argument0 >= argument1 && argument0 < argument2;
+	return arg0 >= arg1 && arg0 < arg2;
 }

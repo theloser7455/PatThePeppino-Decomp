@@ -1,4 +1,4 @@
-function approach(argument0, argument1, argument2)
+function approach(arg0, arg1, arg2)
 {
-    return argument0 + clamp(argument1 - argument0, -abs(argument2), abs(argument2));
+	return arg0 + clamp(arg1 - arg0, -abs(arg2), abs(arg2));
 }

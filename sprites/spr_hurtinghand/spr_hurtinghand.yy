@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5b34a4ad-3b4e-4e3e-ad10-5c2dac864553",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"355267c0-59fb-4a43-98e9-a805bd3d8027",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 171,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dc8ae109-4c73-4af8-94f9-5f37895d1366","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fe56756d-9a6a-4ca2-be9d-b195f3e6be7c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "the hand that your in the control of",
-    "path": "folders/Sprites/the hand that your in the control of.yy",
+    "name": "hand",
+    "path": "folders/Sprites/hand.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5b34a4ad-3b4e-4e3e-ad10-5c2dac864553","path":"sprites/spr_hurtinghand/spr_hurtinghand.yy",},},},"Disabled":false,"id":"b3da954c-8c94-4742-9e20-7ba0f113c1be","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"355267c0-59fb-4a43-98e9-a805bd3d8027","path":"sprites/spr_hurtinghand/spr_hurtinghand.yy",},},},"Disabled":false,"id":"fcc00b66-19a8-4317-b201-9aa6511debfb","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

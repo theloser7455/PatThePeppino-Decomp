@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Transitions idk",
-    "path": "folders/Objects/Transitions idk.yy",
+    "name": "important",
+    "path": "folders/Objects/important.yy",
   },
   "parentObjectId": null,
   "persistent": false,

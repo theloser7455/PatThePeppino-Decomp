@@ -13,21 +13,21 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"00d5c073-39ed-41ff-9d96-d2e5b8147b05",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"05677b23-5147-4e67-9ea9-3907e1d3ef70",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c85b884d-a5b0-4dfe-a93e-86e50e7cd414",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7d6f8f99-7fe6-407c-8753-57740a2c3ba5",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 96,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"860fc96a-73ec-44ab-9f8b-fd12fc8b4a64","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"89444f25-b884-4711-b1b8-d861403ffe97","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Settings GUI",
-    "path": "folders/Sprites/GUI/Settings GUI.yy",
+    "name": "gui",
+    "path": "folders/Sprites/gui.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,9 +54,9 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"00d5c073-39ed-41ff-9d96-d2e5b8147b05","path":"sprites/spr_setting_voices/spr_setting_voices.yy",},},},"Disabled":false,"id":"7de6b7e7-6d21-420d-a7cf-3a85ad9a5588","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"05677b23-5147-4e67-9ea9-3907e1d3ef70","path":"sprites/spr_setting_voices/spr_setting_voices.yy",},},},"Disabled":false,"id":"12e553e8-7266-40a6-b864-e61264572ff9","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c85b884d-a5b0-4dfe-a93e-86e50e7cd414","path":"sprites/spr_setting_voices/spr_setting_voices.yy",},},},"Disabled":false,"id":"a586a596-ee05-45e6-88cc-d3a84d993257","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7d6f8f99-7fe6-407c-8753-57740a2c3ba5","path":"sprites/spr_setting_voices/spr_setting_voices.yy",},},},"Disabled":false,"id":"955d406b-3d1b-4677-8f26-bd37cc86b15c","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

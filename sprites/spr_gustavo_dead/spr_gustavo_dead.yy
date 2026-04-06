@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dc719b38-86cd-49a5-af42-2224d103d2ac",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f9b7c3a6-0272-4d7e-90c4-8aa644cc6833",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 339,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7f0969ab-de1c-4f4a-aa59-c0b3dd2880e1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"96922cc3-534f-461d-b689-2bc7623c2d44","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Gustavo",
-    "path": "folders/Sprites/plushie thingys or whatever/Gustavo.yy",
+    "name": "gustavo",
+    "path": "folders/Sprites/plush/gustavo.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"dc719b38-86cd-49a5-af42-2224d103d2ac","path":"sprites/spr_gustavo_dead/spr_gustavo_dead.yy",},},},"Disabled":false,"id":"05b203f6-5ac0-4634-92bb-8650bb1a7577","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f9b7c3a6-0272-4d7e-90c4-8aa644cc6833","path":"sprites/spr_gustavo_dead/spr_gustavo_dead.yy",},},},"Disabled":false,"id":"9588269c-66bc-45ae-a2e4-a01c308dc8a9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

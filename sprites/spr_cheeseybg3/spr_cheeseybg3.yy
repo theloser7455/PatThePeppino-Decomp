@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"16fb3700-00a1-4e8e-a829-c60a819ccbff",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5bd171af-25aa-4d5b-b694-dd6d3e89c335",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 269,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9e5adcfa-26c1-4629-b0bb-eff67c4666b2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f5c4b1cb-f988-4386-abb8-9d876db9d4d4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "BG",
-    "path": "folders/Sprites/BG.yy",
+    "name": "bg",
+    "path": "folders/Sprites/bg.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"16fb3700-00a1-4e8e-a829-c60a819ccbff","path":"sprites/spr_cheeseybg3/spr_cheeseybg3.yy",},},},"Disabled":false,"id":"e510e0b4-50d5-4f98-85ca-54b98098a61a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5bd171af-25aa-4d5b-b694-dd6d3e89c335","path":"sprites/spr_cheeseybg3/spr_cheeseybg3.yy",},},},"Disabled":false,"id":"b8de0a34-4ef5-4f33-bfb0-cac9170cec7e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

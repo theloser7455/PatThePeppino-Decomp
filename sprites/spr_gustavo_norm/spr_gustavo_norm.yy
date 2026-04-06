@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7d57a9aa-bae5-4f6b-a724-3dffa6cf508a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d2faea5c-7ecd-41ec-a8dc-941d976b029d",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 339,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bd555f10-dc53-445c-8721-7d9b46647533","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"754bbff0-bca3-405c-8aa3-98aba3bf3baf","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Gustavo",
-    "path": "folders/Sprites/plushie thingys or whatever/Gustavo.yy",
+    "name": "gustavo",
+    "path": "folders/Sprites/plush/gustavo.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7d57a9aa-bae5-4f6b-a724-3dffa6cf508a","path":"sprites/spr_gustavo_norm/spr_gustavo_norm.yy",},},},"Disabled":false,"id":"1ea4e58e-c15a-45f6-9809-7e5c0baa30f9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d2faea5c-7ecd-41ec-a8dc-941d976b029d","path":"sprites/spr_gustavo_norm/spr_gustavo_norm.yy",},},},"Disabled":false,"id":"55a376c0-885c-4281-9903-6dab9abbd53f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

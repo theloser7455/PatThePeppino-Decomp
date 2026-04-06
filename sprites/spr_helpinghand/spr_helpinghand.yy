@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b8eeec38-9e2b-4d1d-914e-8f8c43f6e85e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6ce654fd-d92e-4ddb-bec5-5af417e718c8",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 164,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"28bfc37a-781f-4a24-b755-440cfebaa277","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3c8cd4c4-b136-404b-ace4-f2f2c1f5e856","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "the hand that your in the control of",
-    "path": "folders/Sprites/the hand that your in the control of.yy",
+    "name": "hand",
+    "path": "folders/Sprites/hand.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b8eeec38-9e2b-4d1d-914e-8f8c43f6e85e","path":"sprites/spr_helpinghand/spr_helpinghand.yy",},},},"Disabled":false,"id":"0fcf1cf9-1f38-4226-a24a-7c1d6a1e81d5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6ce654fd-d92e-4ddb-bec5-5af417e718c8","path":"sprites/spr_helpinghand/spr_helpinghand.yy",},},},"Disabled":false,"id":"c94fc16e-b08e-445c-a2f7-282599784b98","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

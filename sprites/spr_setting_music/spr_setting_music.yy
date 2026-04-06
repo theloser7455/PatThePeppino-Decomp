@@ -13,21 +13,21 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9e2211c2-2153-4707-8f92-e92552da299d",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d6287336-4e9c-4af5-a12d-776e048b8da7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4bf7df10-da2e-4f41-a9b0-d54317750d04",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"58b7d55a-f3ab-4ebc-a1a1-92405a58978d",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 96,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a4cc59b0-ee81-4178-87fa-f0cf85b5eedc","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"78c50a8c-cf68-4571-8fea-3985ec5d1032","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Settings GUI",
-    "path": "folders/Sprites/GUI/Settings GUI.yy",
+    "name": "gui",
+    "path": "folders/Sprites/gui.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,9 +54,9 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9e2211c2-2153-4707-8f92-e92552da299d","path":"sprites/spr_setting_music/spr_setting_music.yy",},},},"Disabled":false,"id":"ef61e6b8-2c9a-4e6c-9124-9613610701e0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d6287336-4e9c-4af5-a12d-776e048b8da7","path":"sprites/spr_setting_music/spr_setting_music.yy",},},},"Disabled":false,"id":"61253aab-4da7-4b43-abfb-ba561d1f5f4f","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4bf7df10-da2e-4f41-a9b0-d54317750d04","path":"sprites/spr_setting_music/spr_setting_music.yy",},},},"Disabled":false,"id":"bac79562-88d3-4d83-8652-f1601cd73715","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"58b7d55a-f3ab-4ebc-a1a1-92405a58978d","path":"sprites/spr_setting_music/spr_setting_music.yy",},},},"Disabled":false,"id":"4f1b14b6-3c4b-454a-a000-75b68204f1a5","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

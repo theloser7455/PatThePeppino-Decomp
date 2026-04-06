@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Intro & other related stuff",
-    "path": "folders/Objects/Intro & other related stuff.yy",
+    "name": "title",
+    "path": "folders/Objects/title.yy",
   },
   "parentObjectId": null,
   "persistent": false,

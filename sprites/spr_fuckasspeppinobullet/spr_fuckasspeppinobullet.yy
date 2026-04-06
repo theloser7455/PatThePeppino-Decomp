@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f3a0163a-0d9f-4892-9867-d2bffb5860ae",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"428db965-584a-459f-b844-025632707f31",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 87,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b4a83ae0-64d8-4a15-8830-58d9c39a541a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"10e0c193-3b18-4f38-b689-811a4d41a14d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "other stuff i guess",
-    "path": "folders/Sprites/other stuff i guess.yy",
+    "name": "effects",
+    "path": "folders/Sprites/plush/effects.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -53,8 +53,8 @@
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
-      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f3a0163a-0d9f-4892-9867-d2bffb5860ae","path":"sprites/spr_fuckasspeppinobullet/spr_fuckasspeppinobullet.yy",},},},"Disabled":false,"id":"36547546-c1a9-4e14-bd3e-c51eb8bea30d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"428db965-584a-459f-b844-025632707f31","path":"sprites/spr_fuckasspeppinobullet/spr_fuckasspeppinobullet.yy",},},},"Disabled":false,"id":"e45695ca-d88e-4bec-acbd-d450244f726a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

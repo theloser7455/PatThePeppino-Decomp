@@ -1,18 +1,14 @@
-function bool_to_string(argument0, argument1)
+function bool_to_string(arg0, arg1)
 {
-    if (argument0 == true)
-    {
-        if (argument1)
-            return "TRUE";
-        else
-            return "true";
-    }
-    else if (argument1)
-    {
-        return "FALSE";
-    }
-    else
-    {
-        return "false";
-    }
+	if arg0 == true
+	{
+		if (arg1)
+			return "TRUE";
+		else
+			return "true";
+	}
+	else if arg1
+		return "FALSE";
+	else
+		return "false";
 }

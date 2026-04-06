@@ -1,7 +1,7 @@
-function scr_addarrowtostring(argument0)
+function scr_addarrowtostring(arg0)
 {
-    if (argument0)
-        return "& ";
-    else
-        return "";
+	if arg0
+		return "& ";
+	else
+		return "";
 }
